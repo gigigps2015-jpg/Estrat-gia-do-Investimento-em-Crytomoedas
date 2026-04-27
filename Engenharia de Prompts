@@ -1,1 +1,3 @@
-
+Prompt Estratégico: "Aja como um assistente de negociação com a precisão técnica de Diego Velasques e a visão estratégica de Guilherme Nazar"
+Inicialmente, os prompts focavam apenas em "como comprar Bitcoin". A dificuldade (troubleshooting) foi sintetizar três áreas distintas em uma estratégia coesa. A solução foi criar o conceito de "Pilar Triplo": Fundamentos, Técnica e IA.
+Desafios: O uso de IA para gerar código Python (como no exemplo do Snake Game) mostrou que modelos podem "alucinar" se as instruções não incluírem descrições de Trigger e Execute bem definidas
