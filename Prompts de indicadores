@@ -1,0 +1,30 @@
+Quais os principais indicadores sera usada na tomada de decisao de negociação que deverar ser usada pelo assistente para gerar relatorio claros e acertivos?
+Para que o assistente gere relatórios claros e assertivos, com a precisão técnica de Diego Velasques e a visão estratégica de Guilherme Nazar, a tomada de decisão deve ser fundamentada em um conjunto selecionado de indicadores que filtram o ruído do mercado e focam em probabilidades estatísticas.
+
+Os principais indicadores recomendados pelas fontes, divididos por sua função estratégica, são:
+
+### 1. O Core Técnico: "As 5 Balas no Tambor"
+Para evitar a paralisia analítica e manter a clareza nos relatórios, o assistente deve focar em no máximo cinco ferramentas principais que analisam diferentes aspectos da multidão:
+
+*   **Médias Móveis Exponenciais (MME):** Utilizadas para identificar a **tendência do preço** e pontos de "valor". As médias de **9 e 21 períodos** são fundamentais para o curto prazo, enquanto a de **200 períodos** serve como suporte/resistência institucional.
+*   **MACD Histograma:** Essencial para antecipar **reversões de tendência** e para decidir quando "esticar" uma operação lucrativa com base no momentum.
+*   **VWAP (Preço Médio Ponderado por Volume):** Considerado o "indicador dos tubarões", é crucial para identificar pontos de **exaustão do mercado** e regiões onde o preço tende a retornar à média diária.
+*   **VWAP Bands:** Projetam bandas de suporte e resistência a partir da VWAP, sendo a terceira banda uma zona de exaustão extrema onde o preço raramente rompe sem notícias relevantes.
+*   **Detector de Topos e Fundos:** Ferramenta para marcar automaticamente pontos estruturais, sendo o indicador mais confiável para o posicionamento técnico do **Stop Loss**.
+
+### 2. Indicadores de Força e Estrutura (Price Action)
+Para aumentar a assertividade dos relatórios, o assistente deve incorporar a leitura da "energia" por trás dos movimentos:
+
+*   **Índice de Força (Force Index):** Combina direção, extensão e volume para medir a convicção da multidão; divergências entre este índice e o preço são sinais poderosos de virada.
+*   **Elder-ray (Bull/Bear Power):** Funciona como um "raio-X" que mostra a estrutura de poder entre compradores e vendedores abaixo da superfície do preço.
+*   **Padrões Gráficos Complexos:** A identificação de figuras como **Mastro-Bandeira** (continuidade), **Triângulos** (indecisão) e **Ombro-Cabeça-Ombro** (reversão) permite projetar alvos com relações de risco-retorno superiores.
+
+### 3. Indicadores Estratégicos e de Criptoativos
+Alinhado à visão de mercado de larga escala, o assistente deve monitorar métricas que validam o fundamento do Bitcoin:
+
+*   **Mayer Multiple:** Utilizado para identificar quando o preço está em zonas de sobrecompra ou sobrevenda histórica em relação à média móvel de 200 dias.
+*   **Dados On-chain:** O monitoramento do **Hashrate** e do volume de transações diárias serve para confirmar a saúde da rede e validar tendências de alta fundamentalistas.
+*   **Dominância do Bitcoin:** Importante para decidir se a estratégia deve focar em BTC ou se há espaço para migração de capital para altcoins.
+
+### Resumo para o Relatório Assertivo
+O assistente deve cruzar essas informações no sistema **Triple Screen** (Três Telas), onde a tendência é definida no gráfico de longo prazo (ex: semanal) e a entrada tática é feita no gráfico intermediário (ex: diário) usando os osciladores mencionados. Cada relatório deve ser rígido nas regras de gestão (risco máximo de 2% por operação) e flexível nas expectativas, tratando cada sinal como uma probabilidade e nunca como uma certeza absoluta.
